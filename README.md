@@ -1,4 +1,4 @@
-# spell-checker suing NLP technique
+# spell-checker using NLP technique
 
 This Python script is a simple spell checker that detects and corrects spelling mistakes in a given sentence. It uses the pyspellchecker library to automatically identify misspelled words and offers suggestions for corrections.
 
