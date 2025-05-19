@@ -6,17 +6,17 @@ This Python script is a simple spell checker that detects and corrects spelling 
 Spell Check: Automatically identifies and corrects misspelled words in a given sentence.
 User Input: Accepts text input from the user to check for spelling mistakes.
 
-Requirements
+**Requirements**:
 Python 3.x
 pyspellchecker library
 
-Installation
+**Installation**:
 Clone the repository to your local machine:
 git clone https://github.com/yourusername/spell-checker.git
 cd spell-checker
 
-Install the required dependencies:
+**Install the required dependencies:**
 pip install pyspellchecker
 
-Run the script:
+**Run the script:**
 python3 filename.py
